@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 
 <!--
 **PabloFuentes97/PabloFuentes97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 Estudiante de programación en 42 Madrid Telefónica.
-```c char pablo[] = "C, C++, Python";
