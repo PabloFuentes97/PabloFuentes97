@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Estudiante de programación en 42 Madrid Telefónica.
+```c char pablo[] = "C, C++, Python";
