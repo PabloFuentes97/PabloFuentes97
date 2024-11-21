@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Estudiante de programación en 42 Madrid Telefónica.
+Hi, I'm Pablo, a student of 42 Madrid Telefónica, a peer-to-peer programming school focused on project solving.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloFuentes97)](https://github.com/anuraghazra/github-readme-stats)
