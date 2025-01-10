@@ -4,7 +4,7 @@ I'm currently working on a [Machine Learning mini-framework](https://github.com/
 
 I'm currently learning about Artificial Intelligence, Data Science and Mathematics.
 
-### Skills:
+# Skills:
 
 -	Main programming languages: C, C++, Python
 -	Data Analysis: Numpy, Pandas, Matplotlib, Seaborn, StatsModels
@@ -16,7 +16,7 @@ I'm currently learning about Artificial Intelligence, Data Science and Mathemati
 -	Scripting: Bash, Python
 -	Agile methodologies: Scrum Manager
 
-### Main areas of interest and knowledge
+# Main areas of interest and knowledge
 
 - Low-level development in C / C++: manual memory allocation, data structures, libraries, algorithms, graphic applications, multi-thread/multi-process programs, interactive consoles and web servers.
 - Configuration, virtualization and deployment of applications (Docker, VirtualBox).
@@ -26,33 +26,33 @@ I'm currently learning about Artificial Intelligence, Data Science and Mathemati
 - Videogames and graphical applications.
 
 
-### Featured Projects
+# Featured Projects
 
-## Machine Learning mini-framework
+## [Machine Learning mini-framework](https://github.com/PabloFuentes97/Machine-Learning-framework)
 Implementation built from scratch in Python of several Machine Learning models and algorithms.
 -	Regressors: Linear and Polynomial Regression
 -	Classifiers: Logistic Regression (Binary, One-vs-Rest), Softmax Regression
 -	Neural Networks: Multilayer Perceptron
 -	Optimizers: Gradient Descent (Batch, Stochastic, Mini-Batch)
 
-## Transcendence
+## [Transcendence](https://github.com/PabloFuentes97/transcendence)
 -	Server-side Pong: local and online matches, online tournaments and matchmaking system (Django channels, Daphne)
 -	User's registration, logging and autentification (Django, PostreSQL)
 -	Frontend with reactive web (JavaScript) and Command Line Interface (Python curses)
 -	Microservices architecture with containers (Docker)
 						           	            		      
-## Inception
+## [Inception](https://github.com/PabloFuentes97/inception)
 -	Configuration and deployment of LEMP stack (Linux, NGINX, MariaDB y Wordpress-PHP) with Docker Compose
 -	Configuration from scratch of Docker images and automatized instalation of services (Bash)
 
-## Webserv
+## [Webserv](https://github.com/PabloFuentes97/webserv)
 Static HTTP web server (C++) based on NGINX
 -	Reading and validation of configuration file
 -	Async event loop (C poll library)
 -	HTTP methods: GET, POST and DELETE
 -	CGI to execute external scripts in different languages: Python and PHP
 
-## Minishell
+## [Minishell](https://github.com/PabloFuentes97/minishell)
 Interactive console (C) based on Bash				      		
 -	Prompt reading and transformation to tokens list and syntax tree
 -	Operators: redirections (>, >>, <, <<), pipes (|), AND (&&) and OR (||)
