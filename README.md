@@ -38,28 +38,28 @@ Implementation built from scratch in Python of several Machine Learning models a
 -	Optimizers: Gradient Descent (Batch, Stochastic, Mini-Batch)
 
 ## Transcendence
-•	Server-side Pong: local and online matches, online tournaments and matchmaking system (Django channels, Daphne)
-•	User's registration, logging and autentification (Django, PostreSQL)
-•	Frontend with reactive web (JavaScript) and Command Line Interface (Python curses)
-•	Microservices architecture with containers (Docker)
+-	Server-side Pong: local and online matches, online tournaments and matchmaking system (Django channels, Daphne)
+-	User's registration, logging and autentification (Django, PostreSQL)
+-	Frontend with reactive web (JavaScript) and Command Line Interface (Python curses)
+-	Microservices architecture with containers (Docker)
 						           	            		      
 ## Inception
-•	Configuration and deployment of LEMP stack (Linux, NGINX, MariaDB y Wordpress-PHP) with Docker Compose
-•	Configuration from scratch of Docker images and automatized instalation of services (Bash)
+-	Configuration and deployment of LEMP stack (Linux, NGINX, MariaDB y Wordpress-PHP) with Docker Compose
+-	Configuration from scratch of Docker images and automatized instalation of services (Bash)
 
 ## Webserv
 Static HTTP web server (C++) based on NGINX
-•	Reading and validation of configuration file
-•	Async event loop (C poll library)
-•	HTTP methods: GET, POST and DELETE
-•	CGI to execute external scripts in different languages: Python and PHP
+-	Reading and validation of configuration file
+-	Async event loop (C poll library)
+-	HTTP methods: GET, POST and DELETE
+-	CGI to execute external scripts in different languages: Python and PHP
 
 ## Minishell
 Interactive console (C) based on Bash				      		
-•	Prompt reading and transformation to tokens list and syntax tree
-•	Operators: redirections (>, >>, <, <<), pipes (|), AND (&&) and OR (||)
-•	Execution of external scripts and commands, and Bash built-ins (echo, cd, export, env, unset, pwd, exit)
-•	Environment variables and wildcards
+-	Prompt reading and transformation to tokens list and syntax tree
+-	Operators: redirections (>, >>, <, <<), pipes (|), AND (&&) and OR (||)
+-	Execution of external scripts and commands, and Bash built-ins (echo, cd, export, env, unset, pwd, exit)
+-	Environment variables and wildcards
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pablo-fuentes-l%C3%B3pez-b0b319167//)  
