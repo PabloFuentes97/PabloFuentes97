@@ -1,5 +1,3 @@
-### Pablo Fuentes
-
 I'm a student from 42 Madrid Telefónica, a peer-to-peer programming school focused on project solving.
 
 I'm currently working on a [Machine Learning mini-framework](https://github.com/PabloFuentes97/Machine-Learning-framework) build from scratch on Python.
