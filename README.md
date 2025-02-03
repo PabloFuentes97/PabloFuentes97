@@ -33,7 +33,7 @@ Implementation built from scratch in Python of several Machine Learning models a
 -	Regressors: Linear and Polynomial Regression
 -	Classifiers: Logistic Regression (Binary, One-vs-Rest), Softmax Regression
 -	Neural Networks: Multilayer Perceptron
--	Optimizers: Gradient Descent (Batch, Stochastic, Mini-Batch)
+-	Optimizers: Gradient Descent (Batch, Stochastic, Mini-Batch, Momentum), RMSProp, Adam
 
 ## [Transcendence](https://github.com/PabloFuentes97/transcendence)
 -	Server-side Pong: local and online matches, online tournaments and matchmaking system (Django channels, Daphne)
