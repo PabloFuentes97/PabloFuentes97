@@ -8,7 +8,7 @@ I'm currently learning about Artificial Intelligence, Data Science and Mathemati
 
 -	Main programming languages: C, C++, Python
 -	Data Analysis: Numpy, Pandas, Matplotlib, Seaborn, StatsModels
--	Web Backend: Django, Daphne, Django channels,asyncio, requests, websockets
+-	Web Backend: Django, Daphne, Django channels, asyncio, requests, websockets
 -	Web Frontend: HTML, CSS, JavaScript
 -	Artificial Intelligence: scikit-learn, PyTorch, TensorFlow, Keras
 -	Virtualization: Docker, VirtualBox
